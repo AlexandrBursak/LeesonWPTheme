@@ -8,7 +8,7 @@
       <?php while ( have_posts() ) : the_post(); ?>
         <h2><?php the_title(); ?></h2>
         <div><?php the_excerpt(); ?></div>
-        <a href="<?php echo get_permalink(); ?>"> Read more </a>
+        <a class="btn btn-sm btn-primary" href="<?php echo get_permalink(); ?>"> Read more </a>
         <hr/>
       <?php endwhile; ?>
 
