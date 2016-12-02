@@ -5,6 +5,8 @@ register_nav_menus( array(
   'secondly' => 'Second menu'
 ));
 
+add_theme_support( 'post-thumbnails' );
+
 function hello_world()
 {
   return 'Hello world';

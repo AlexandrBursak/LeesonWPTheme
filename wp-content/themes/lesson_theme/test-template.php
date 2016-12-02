@@ -1,3 +1,13 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: bursak
+ * Date: 12/2/16
+ * Time: 21:34
+ * Template Name: Test template
+ */
+?>
+
 <?php get_header(); ?>
 
 <div class="container">
@@ -7,16 +17,6 @@
 
       <?php while ( have_posts() ) : the_post(); ?>
         <h2><?php the_title(); ?></h2>
-        <?php
-        if ( has_post_thumbnail() )
-        {
-          ?>
-          <div class="picture">
-            <?php the_post_thumbnail(); ?>
-          </div>
-          <?php
-        }
-        ?>
         <div><?php the_excerpt(); ?></div>
         <a class="btn btn-sm btn-primary" href="<?php echo get_permalink(); ?>"> Read more </a>
         <hr/>
@@ -27,4 +27,7 @@
 
 </div>
 
-<?php get_footer(); ?>
+<?php get_footer('static'); ?>
+
+
+
