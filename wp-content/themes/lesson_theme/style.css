@@ -1,0 +1,19 @@
+/*
+Theme Name: Lesson Theme
+Author: Alex Bursak
+Author URI: https://bursak.com/
+Description: Lesson Theme was doing like learn stuff
+Version: 0.1
+Tags: lesson, theme, learn, course, php
+
+Some text about this Theme
+*/
+
+* {
+
+}
+
+
+header {
+  color: red;
+}
