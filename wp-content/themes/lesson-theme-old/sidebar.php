@@ -7,4 +7,6 @@
  */
 ?>
 
-<div style="border: 1px dotted red;"> SideBar </div>
+<div style="border: 1px dotted red;"> SideBar
+
+</div>
