@@ -13,6 +13,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-9 blog-main">
+      <?php if (!dynamic_sidebar('Simple Widget')) :?> <?php endif;?>
       <main class="blog-post">
         <?php while ( have_posts() ) : the_post(); ?>
           <h2><?php the_title(); ?></h2>

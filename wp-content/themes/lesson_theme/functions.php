@@ -20,6 +20,16 @@ register_sidebar(
     'before_title' => '<h2>',
     'after_title' => '</h2>'
   ));
+register_sidebar(
+  array(
+    'id' => 'sidebar3',
+    'name' => __( "Simple Widget" ),
+    'description' => 'Place for simple widget',
+    'before_widget' => '<div id="%1$s" class="widget %2$s ourselve">',
+    'after_widget' => '</div>',
+    'before_title' => '<h2>',
+    'after_title' => '</h2>'
+  ));
 
 register_nav_menus( array(
   'primary'  => __( 'Home' ),
@@ -63,9 +73,4 @@ function special_nav_class($classes, $item){
     ];
   }
   return $classes;
-}
-
-function rewrite_class_name_for_class($data){
-  var_dump($data);
-  return 'hello';
 }
