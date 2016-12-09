@@ -64,8 +64,3 @@ function special_nav_class($classes, $item){
   }
   return $classes;
 }
-
-function rewrite_class_name_for_class($data){
-  var_dump($data);
-  return 'hello';
-}

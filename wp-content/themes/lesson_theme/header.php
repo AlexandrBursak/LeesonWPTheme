@@ -23,8 +23,7 @@
         <?php
         wp_nav_menu( array(
           'theme_location' => 'primary',
-          'menu_class' => 'blog-nav',
-          'fallback_cb' => 'rewrite_class_name_for_class'
+          'menu_class' => 'blog-nav'
         ) );
         ?>
       </menu>
