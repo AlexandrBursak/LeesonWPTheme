@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f21bc602-0fa7-482a-b1a9-671202142daa" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/lesson-plugin/lesson_widget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/lesson_theme/searchform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/lesson-plugin/lesson_plugin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/lesson-plugin/lesson_plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lesson_theme/assets/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/lesson_theme/assets/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lesson_theme/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/lesson_theme/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lesson_theme/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/lesson_theme/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lesson_theme/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/lesson_theme/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lesson_theme/test-template.php" afterPath="$PROJECT_DIR$/wp-content/themes/lesson_theme/test-template.php" />
     </list>
     <ignored path="wp_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/single.php">
+      <file leaf-file-name="simple_widget.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/lesson-plugin/simple_widget.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson_plugin.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lesson_plugin.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/lesson-plugin/lesson_plugin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="480">
+              <caret line="51" column="21" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="21" />
               <folding>
                 <element signature="e#6#190#0#PHP" expanded="true" />
               </folding>
@@ -49,86 +50,64 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="22" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="22" />
+            <state relative-caret-position="315">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/page.php">
+      <file leaf-file-name="lesson_widget.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/lesson-plugin/lesson_widget.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post-template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/post-template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5160">
-              <caret line="351" column="0" selection-start-line="351" selection-start-column="0" selection-end-line="351" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6375">
-              <caret line="430" column="9" selection-start-line="430" selection-start-column="9" selection-end-line="430" selection-end-column="9" />
+            <state relative-caret-position="380">
+              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
               <folding>
-                <marker date="1471277910000" expanded="true" signature="53025:53041" ph="Insert into post... " />
-                <marker date="1471277910000" expanded="true" signature="53051:53067" ph="Insert into page... " />
-                <marker date="1471277910000" expanded="true" signature="78775:78859" ph="SELECT post_... $" />
-                <marker date="1471277910000" expanded="true" signature="80795:80946" ph="SELECT post_... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="81116:81209" ph="SELECT COUNT... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="86937:86977" ph="SELECT * FRO... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="88384:88452" ph="SELECT * FRO... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="88777:88854" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="89306:89371" ph="SELECT comme... ${$wpdb-&gt;comments}" />
-                <marker date="1471277910000" expanded="true" signature="89564:89618" ph="SELECT meta_... ${$wpdb-&gt;postmeta}" />
-                <marker date="1471277910000" expanded="true" signature="94206:94289" ph="SELECT comme... ${$wpdb-&gt;comments}" />
-                <marker date="1471277910000" expanded="true" signature="96211:96294" ph="UPDATE ${$wp... " />
-                <marker date="1471277910000" expanded="true" signature="116000:116041" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="127575:127651" ph="SELECT post_... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="128724:128859" ph="SELECT post_... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="129977:130072" ph="SELECT post_... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="140441:140486" ph="SELECT pinge... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="142011:142056" ph="SELECT pinge... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="142627:142673" ph="SELECT to_pi... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="144106:144158" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="146619:146759" ph="SELECT ID, p... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="148449:148547" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="148608:148685" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="160792:160850" ph="SELECT * FRO... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="164970:165010" ph="SELECT * FRO... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="166128:166193" ph="SELECT comme... ${$wpdb-&gt;comments}" />
-                <marker date="1471277910000" expanded="true" signature="166387:166441" ph="SELECT meta_... ${$wpdb-&gt;postmeta}" />
-                <marker date="1471277910000" expanded="true" signature="167012:167131" ph="SELECT meta_... ${$wpdb-&gt;postmeta}" />
-                <marker date="1471277910000" expanded="true" signature="189273:189418" ph="SELECT post_... " />
-                <marker date="1471277910000" expanded="true" signature="189477:189618" ph="SELECT post_... " />
-                <marker date="1471277910000" expanded="true" signature="189718:189912" ph="SELECT DATE_... " />
-                <marker date="1471277910000" expanded="true" signature="200627:200737" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
-                <marker date="1471277910000" expanded="true" signature="203258:203314" ph="SELECT ${$wp... ${$wpdb-&gt;posts}" />
+                <marker date="1481306711000" expanded="true" signature="1506:1642" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchform.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/searchform.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wp-widget.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/class-wp-widget.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="219" column="18" selection-start-line="219" selection-start-column="18" selection-end-line="219" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -161,9 +140,12 @@
         <option value="$PROJECT_DIR$/wp-content/themes/lesson_theme/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/test-plugin/index-plugin.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/lesson_theme/single.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/lesson-plugin/lesson_plugin.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/lesson_theme/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/lesson_theme/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lesson_theme/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/lesson-plugin/lesson_plugin.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lesson_theme/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/lesson-plugin/lesson_widget.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lesson_theme/searchform.php" />
       </list>
     </option>
   </component>
@@ -397,24 +379,24 @@
       <workItem from="1480691050994" duration="613000" />
       <workItem from="1480927210762" duration="7775000" />
       <workItem from="1481132805388" duration="3803000" />
-      <workItem from="1481303660866" duration="39000" />
+      <workItem from="1481303660866" duration="2352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19911000" />
+    <option name="totallyTimeSpent" value="22224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29925454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14962727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21287128" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17425743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -655,26 +637,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/hello.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-527">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfifteen/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="142" column="72" selection-start-line="142" selection-start-column="56" selection-end-line="142" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -699,9 +665,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/test-plugin/index-plugin.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/test-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="351" column="0" selection-start-line="351" selection-start-column="0" selection-end-line="351" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6375">
+        <state relative-caret-position="76">
           <caret line="430" column="9" selection-start-line="430" selection-start-column="9" selection-end-line="430" selection-end-column="9" />
           <folding>
             <marker date="1471277910000" expanded="true" signature="53025:53041" ph="Insert into post... " />
@@ -741,54 +756,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/post-template.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/hello.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5160">
-          <caret line="351" column="0" selection-start-line="351" selection-start-column="0" selection-end-line="351" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/test-plugin/index-plugin.php" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1369246120000" expanded="true" signature="2091:2201" ph="..." />
+            <marker date="1369246120000" expanded="true" signature="2101:2192" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="315">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/page.php">
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-wp-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="261">
+          <caret line="219" column="18" selection-start-line="219" selection-start-column="18" selection-end-line="219" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/lesson-plugin/simple_widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/lesson-plugin/lesson_plugin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="480">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="21" />
           <folding>
             <element signature="e#6#190#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/lesson-plugin/lesson_widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+          <folding>
+            <marker date="1481306711000" expanded="true" signature="1506:1642" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lesson_theme/searchform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
