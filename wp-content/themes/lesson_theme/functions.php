@@ -28,16 +28,16 @@ register_nav_menus( array(
 
 add_theme_support( 'post-thumbnails' );
 
-function hello_world()
-{
-  return 'Hello world';
-}
+//function hello_world()
+//{
+//  return 'Hello world';
+//}
 
-function theme_function() {
-  echo 'Hello My Theme!';
-}
-
-add_action('theme_action', 'theme_function');
+//function theme_function() {
+//  echo 'Hello My Theme!';
+//}
+//
+//add_action('theme_action', 'theme_function');
 
 /**
  * Include CSS file for MyPlugin.
@@ -63,9 +63,4 @@ function special_nav_class($classes, $item){
     ];
   }
   return $classes;
-}
-
-function rewrite_class_name_for_class($data){
-  var_dump($data);
-  return 'hello';
 }
