@@ -15,10 +15,10 @@ register_sidebar(
     'id' => 'sidebar2',
     'name' => __( "Sidebar 2" ),
     'description' => 'All sidebar 2',
-    'before_widget' => '<div id="%1$s" class="widget %2$s"><strong>',
-    'after_widget' => '</strong></div>',
-    'before_title' => '<h2>',
-    'after_title' => '</h2>'
+    'before_widget' => '<div id="%1$s" class="widget %2$s">',
+    'after_widget' => '</div>',
+    'before_title' => '<h3>',
+    'after_title' => '</h3>'
   ));
 
 register_nav_menus( array(
